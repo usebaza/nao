@@ -4,7 +4,6 @@ dist
 dist-ssr
 *.local*
 count.txt
-.env
 .nitro
 .tanstack
 .wrangler
@@ -20,3 +19,4 @@ rsa_key.*
 apps/backend/projects/
 
 *.code-workspace
+config.bat
